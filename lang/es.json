@@ -1,0 +1,16 @@
+{ 
+    "You are logged in!" : "Tú has ingresado!",    
+    "Choose a language" : "Escoge un lenguaje",    
+    "Dashboard" : "Escritorio",    
+    "Spanish" : "Español",    
+    "English" : "Inglés", 
+    "Logout" : "Salir",
+    "Name": "Nombre", 
+    "Login": "Iniciar sesión",
+    "Register": "Registro",
+    "Email Address": "Correo electrónico",
+    "Password": "Contraseña",
+    "Confirm Password": "Confirmar contraseña",
+    "Remember Me": "Recordar mis datos",
+    "Forgot Your Password?": "Olvidó su contraseña?"
+}
