@@ -14,7 +14,8 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('main');
+    $books = App\Models\Book::all();
+    return view('main', compact($books));
 });
 
 Auth::routes();
